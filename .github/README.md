@@ -1057,6 +1057,7 @@
 - <img src='https://icon.horse/icon/nbxsupport.zendesk.com' width='16'/> [NBX](https://nbxsupport.zendesk.com/hc/en-us/articles/360044264592-NBX-Responsible-Disclosure-Policy) 💰
 - <img src='https://icon.horse/icon/hackerone.com' width='16'/> [NCSC UK](https://hackerone.com/ncsc_uk) 🏅
 - <img src='https://icon.horse/icon/www.ncsc.nl' width='16'/> [NCSC-NL](https://www.ncsc.nl/security) 💰 🎁
+- <img src='https://icon.horse/icon/bugcrowd.com' width='16'/> [Nemetschek](https://bugcrowd.com/engagements/nemetschek) 💰
 - <img src='https://icon.horse/icon/bugcrowd.com' width='16'/> [NEOGOV Public Assets](https://bugcrowd.com/engagements/neohrms) 💰
 - <img src='https://icon.horse/icon/neon.tech' width='16'/> [Neon](http://neon.tech) 💰
 - <img src='https://icon.horse/icon/bugcrowd.com' width='16'/> [Neophotonics](https://bugcrowd.com/neophotonics) 💰 🏅
@@ -1505,6 +1506,7 @@
 - <img src='https://icon.horse/icon/immunefi.com' width='16'/> [Stader for BNB](https://immunefi.com/bug-bounty/staderforbnb/) 💰
 - <img src='https://icon.horse/icon/immunefi.com' width='16'/> [Stader for ETH](https://immunefi.com/bug-bounty/staderforeth/) 💰
 - <img src='https://icon.horse/icon/immunefi.com' width='16'/> [Stader for Polygon](https://immunefi.com/bug-bounty/StaderforPolygon/) 💰
+- <img src='https://icon.horse/icon/bugcrowd.com' width='16'/> [STAGIL Marketplace Bug Bounty](https://bugcrowd.com/engagements/stagil) 💰
 - <img src='https://icon.horse/icon/immunefi.com' width='16'/> [stake.link](https://immunefi.com/bug-bounty/stakelink/) 💰
 - <img src='https://icon.horse/icon/staked.us' width='16'/> [Staked](https://staked.us/bug-bounty/) 💰
 - <img src='https://icon.horse/icon/immunefi.com' width='16'/> [StakeEasy](https://immunefi.com/bug-bounty/stakeeasy/) 💰
