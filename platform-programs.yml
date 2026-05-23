@@ -2275,6 +2275,11 @@ companies:
   handle: challenge0426
   contact: https://www.intigriti.com/programs/intigriti/challenge0426/detail
   rewards: []
+- company: Challenge 0526
+  url: https://www.intigriti.com/programs/intigriti/challenge0526/detail
+  handle: challenge0526
+  contact: https://www.intigriti.com/programs/intigriti/challenge0526/detail
+  rewards: []
 - company: Chameleon
   url: https://www.trychameleon.com/security/disclosure
   contact: https://www.trychameleon.com/security/disclosure
@@ -8534,6 +8539,11 @@ companies:
   url: https://www.federacy.com/nelogica
   contact: https://www.federacy.com/nelogica
   rewards: []
+- company: Nemetschek
+  url: https://bugcrowd.com/engagements/nemetschek
+  contact: https://bugcrowd.com/engagements/nemetschek
+  rewards:
+  - '*bounty'
 - company: NEOGOV Public Assets
   url: https://bugcrowd.com/engagements/neohrms
   contact: https://bugcrowd.com/engagements/neohrms
@@ -12125,6 +12135,11 @@ companies:
   contact: https://immunefi.com/bug-bounty/StaderforPolygon/
   rewards:
   - '*bounty'
+- company: STAGIL Marketplace Bug Bounty
+  url: https://bugcrowd.com/engagements/stagil
+  contact: https://bugcrowd.com/engagements/stagil
+  rewards:
+  - '*bounty'
 - company: Staging.every.org
   url: https://staging.every.org
   handle: stagingdoteverydotorg
@@ -13817,6 +13832,11 @@ companies:
   contact: https://immunefi.com/bug-bounty/vesu/
   rewards:
   - '*bounty'
+- company: VF Corporation - VDP
+  url: http://vfc.com
+  handle: vf-corporation-vdp
+  contact: https://hackerone.com/vf-corporation-vdp
+  rewards: []
 - company: Vfs
   url: https://yeswehack.com/programs/vfs-global-bug-bounty-program
   contact: https://yeswehack.com/programs/vfs-global-bug-bounty-program
