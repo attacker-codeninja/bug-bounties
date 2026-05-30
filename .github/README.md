@@ -974,6 +974,7 @@
 - <img src='https://icon.horse/icon/www.marktplaats.nl' width='16'/> [Marktplaats](https://www.marktplaats.nl/i/help/veilig-en-succesvol/responsible-disclosure-program.dot.html) 💰
 - <img src='https://icon.horse/icon/hackerone.com' width='16'/> [Marriott](https://hackerone.com/marriott) 💰 🏅 🎁
 - <img src='https://icon.horse/icon/immunefi.com' width='16'/> [Mars Ecosystem](https://immunefi.com/bug-bounty/marsecosystem/) 💰
+- <img src='https://icon.horse/icon/bugcrowd.com' width='16'/> [Marvelution](https://bugcrowd.com/engagements/marvelutionbv) 💰
 - <img src='https://icon.horse/icon/bounty.mit.edu' width='16'/> [Massachusetts Institute of Technology](https://bounty.mit.edu/) 💰 🏅
 - <img src='https://icon.horse/icon/bugcrowd.com' width='16'/> [Mastercard](https://bugcrowd.com/mastercard) 💰 🏅
 - <img src='https://icon.horse/icon/bugcrowd.com' width='16'/> [Mastercard Public Bug Bounty](https://bugcrowd.com/engagements/mastercard) 💰
