@@ -3583,6 +3583,11 @@ companies:
   rewards:
   - '*bounty'
   - '*recognition'
+- company: DevAcrobats
+  url: https://bugcrowd.com/engagements/devacrobats-market
+  contact: https://bugcrowd.com/engagements/devacrobats-market
+  rewards:
+  - '*bounty'
 - company: Devo
   url: https://www.devo.com/responsible-vulnerability-disclosure-program/
   contact: mailto:vuln-report@devo.com
@@ -6387,6 +6392,11 @@ companies:
   url: https://iem.com/privacy/responsible-vulnerability-disclosure-guidelines/
   contact: mailto:responsibledisclosure@iem.com
   rewards: []
+- company: Inprowiser Bug Bounty
+  url: https://bugcrowd.com/engagements/inprowiser
+  contact: https://bugcrowd.com/engagements/inprowiser
+  rewards:
+  - '*bounty'
 - company: Insightly
   url: http://insightly.com
   handle: insightly
@@ -6846,6 +6856,11 @@ companies:
   contact: https://immunefi.com/bug-bounty/kamino/
   rewards:
   - '*bounty'
+- company: Kantega SSO
+  url: https://bugcrowd.com/engagements/kantega
+  contact: https://bugcrowd.com/engagements/kantega
+  rewards:
+  - '*bounty'
 - company: Karbon
   url: https://karbonhq.com/security/vulnerability-disclosure
   contact: https://karbonhq.typeform.com/to/FMrg1T
@@ -7166,6 +7181,11 @@ companies:
   url: https://launchdarkly.com
   handle: launchdarkly
   contact: https://hackerone.com/launchdarkly
+  rewards:
+  - '*bounty'
+- company: LaunchDarkly Managed Bug Bounty Engagement
+  url: https://bugcrowd.com/engagements/launchdarkly-mbb-og
+  contact: https://bugcrowd.com/engagements/launchdarkly-mbb-og
   rewards:
   - '*bounty'
 - company: LayerZero
@@ -9895,6 +9915,11 @@ companies:
   contact: mailto:productsecurity@philips.com
   rewards:
   - '*recognition'
+- company: PhonePe
+  url: https://www.phonepe.com/
+  handle: phonepe_vdp
+  contact: https://hackerone.com/phonepe_vdp
+  rewards: []
 - company: PHP
   url: https://bugs.php.net/report.php?bug_type=Security
   contact: mailto:security@php.net
@@ -10791,6 +10816,11 @@ companies:
 - company: Relaso
   url: https://www.relaso.com/disclosure/
   contact: mailto:security@relaso.com
+  rewards:
+  - '*bounty'
+- company: Release Management (by Y2 ENGR)
+  url: https://bugcrowd.com/engagements/releasemanagement
+  contact: https://bugcrowd.com/engagements/releasemanagement
   rewards:
   - '*bounty'
 - company: REM-B Hydraulics
