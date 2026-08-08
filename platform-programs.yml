@@ -1883,8 +1883,10 @@ companies:
   rewards: []
 - company: Box
   url: https://www.box.com/about-us/security/
+  handle: box_private
   contact: mailto:security-reports@box.com
-  rewards: []
+  rewards:
+  - '*bounty'
 - company: Bpost
   url: https://www.intigriti.com/programs/bpost/dummy/detail
   handle: dummy
@@ -11468,6 +11470,11 @@ companies:
   contact: https://yeswehack.com/programs/salt-mobile-sa-bug-bounty-program
   rewards:
   - '*bounty'
+- company: Salto Vulnerability Disclosure
+  url: https://www.intigriti.com/programs/saltosystems/saltovulnerabilitydisclosure/detail
+  handle: saltovulnerabilitydisclosure
+  contact: https://www.intigriti.com/programs/saltosystems/saltovulnerabilitydisclosure/detail
+  rewards: []
 - company: Samsara
   url: https://www.samsara.com/security
   contact: https://www.samsara.com/security
