@@ -10489,6 +10489,11 @@ companies:
   rewards:
   - '*bounty'
   - '*recognition'
+- company: PRISM
+  url: https://www.prismlife.com/
+  handle: prism_vdp
+  contact: https://hackerone.com/prism_vdp
+  rewards: []
 - company: Privacy and Civil Liberties Oversight Board
   url: https://www.pclob.gov/vulnerability-disclosure-policy
   contact: mailto:soc@pclob.gov
@@ -12295,6 +12300,7 @@ companies:
   rewards: []
 - company: Spacelift
   url: https://www.federacy.com/spacelift
+  handle: spaceliftvdp
   contact: https://www.federacy.com/spacelift
   rewards:
   - '*bounty'
@@ -12386,8 +12392,10 @@ companies:
   - '*recognition'
 - company: Sqills
   url: https://www.sqills.com/responsible-disclosure-policy/
+  handle: sqillscorporatewebsite
   contact: mailto:responsibledisclosure@sqills.com
   rewards:
+  - '*bounty'
   - '*recognition'
 - company: sqreen.io
   url: https://www.sqreen.com/security
