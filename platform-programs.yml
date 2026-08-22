@@ -206,6 +206,11 @@ companies:
   contact: mailto:security@accredible.com
   rewards:
   - '*bounty'
+- company: Accxia Marketplace Bug Bounty
+  url: https://bugcrowd.com/engagements/accxia-gmbh
+  contact: https://bugcrowd.com/engagements/accxia-gmbh
+  rewards:
+  - '*bounty'
 - company: Achmea
   url: https://www.achmea.nl/en/responsibledisclosure
   contact: https://www.achmea.nl/en/responsibledisclosure
@@ -297,6 +302,11 @@ companies:
   url: https://www.adp.com/about-adp/data-security.aspx
   contact: mailto:vulnerabilityreporting@ADP.com
   rewards: []
+- company: Aelbox Marketplace Bug Bounty
+  url: https://bugcrowd.com/engagements/aelbox
+  contact: https://bugcrowd.com/engagements/aelbox
+  rewards:
+  - '*bounty'
 - company: Aera
   url: https://immunefi.com/bug-bounty/aera/
   contact: https://immunefi.com/bug-bounty/aera/
@@ -1962,6 +1972,11 @@ companies:
 - company: Broken Build Bug Bounty
   url: https://bugcrowd.com/engagements/brokenbuild
   contact: https://bugcrowd.com/engagements/brokenbuild
+  rewards:
+  - '*bounty'
+- company: BrowserStack Inc. Marketplace Managed Bug Bounty Engagement
+  url: https://bugcrowd.com/engagements/browserstack-market
+  contact: https://bugcrowd.com/engagements/browserstack-market
   rewards:
   - '*bounty'
 - company: BtcTurk
@@ -3696,6 +3711,11 @@ companies:
   url: https://pmdevcore.gov.np/security
   contact: mailto:steeringcommittee@opmcm.gov.np
   rewards: []
+- company: DevSamurai
+  url: https://bugcrowd.com/engagements/devsamurai
+  contact: https://bugcrowd.com/engagements/devsamurai
+  rewards:
+  - '*bounty'
 - company: DeXe Protocol
   url: https://immunefi.com/bug-bounty/dexeprotocol/
   contact: https://immunefi.com/bug-bounty/dexeprotocol/
@@ -4052,6 +4072,11 @@ companies:
   contact: https://bugcrowd.com/engagements/dutch-beginners-market
   rewards:
   - '*bounty'
+- company: Dutch Lottery VDP
+  url: https://www.intigriti.com/programs/nederlandseloterij/dutchlotteryvdp/detail
+  handle: dutchlotteryvdp
+  contact: https://www.intigriti.com/programs/nederlandseloterij/dutchlotteryvdp/detail
+  rewards: []
 - company: Dutch Tax Office
   url: https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/standaard_functies/individuals/contact/data-leak-vulnerability-abuse-computer-systems/data-leak-vulnerability-abuse-computer-systems-report
   contact: https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/standaard_functies/individuals/contact/data-leak-vulnerability-abuse-computer-systems/data-leak-vulnerability-abuse-computer-systems-report
@@ -4517,6 +4542,11 @@ companies:
 - company: European Central Bank
   url: https://www.ecb.europa.eu/services/responsible-disclosure/html/index.nl.html
   contact: https://www.ecb.europa.eu/services/responsible-disclosure/html/index.nl.html
+  rewards: []
+- company: European Space Agency (ESA) VDP
+  url: https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
+  handle: europeanspaceagencyvdp
+  contact: https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail
   rewards: []
 - company: Event Espresso
   url: https://eventespresso.com/report-a-security-vulnerability/
@@ -7578,6 +7608,11 @@ companies:
   contact: https://immunefi.com/bug-bounty/listadao/
   rewards:
   - '*bounty'
+- company: Litew8 GmbH - Marketplace Bug Bounty
+  url: https://bugcrowd.com/engagements/litew8
+  contact: https://bugcrowd.com/engagements/litew8
+  rewards:
+  - '*bounty'
 - company: Liveclicker
   url: https://www.liveclicker.com/trust/report-a-vulnerability/
   contact: https://www.liveclicker.com/trust/report-a-vulnerability/
@@ -7763,6 +7798,11 @@ companies:
   rewards:
   - '*bounty'
   - '*recognition'
+- company: Magic Apps Marketplace Bug Bounty
+  url: https://bugcrowd.com/engagements/magic-apps
+  contact: https://bugcrowd.com/engagements/magic-apps
+  rewards:
+  - '*bounty'
 - company: Magic Eden
   url: http://magiceden.io
   handle: magic-eden
@@ -7962,6 +8002,11 @@ companies:
   url: https://documents.marketo.com/legal/notices/responsible-disclosure-policy.pdf
   contact: mailto:securityteam@marketo.com
   rewards: []
+- company: Marketplace Expert SL
+  url: https://bugcrowd.com/engagements/marketplaceexpert
+  contact: https://bugcrowd.com/engagements/marketplaceexpert
+  rewards:
+  - '*bounty'
 - company: Marktplaats
   url: https://www.marktplaats.nl/i/help/veilig-en-succesvol/responsible-disclosure-program.dot.html
   contact: https://app.zerocopter.com/en/rd/0d37aefa-0c1f-4d3e-a4c5-d4879460d595
@@ -8313,6 +8358,11 @@ companies:
   url: https://www.federacy.com/mobileaction
   contact: https://www.federacy.com/mobileaction
   rewards: []
+- company: MobilityStream Bug Bounty
+  url: https://bugcrowd.com/engagements/mobilitystream
+  contact: https://bugcrowd.com/engagements/mobilitystream
+  rewards:
+  - '*bounty'
 - company: MobiSystems Ltd
   url: https://hackerone.com/mobisystems_ltd
   contact: https://hackerone.com/mobisystems_ltd
@@ -8482,6 +8532,11 @@ companies:
   url: https://hackerone.com/mount-sinai-health
   contact: https://hackerone.com/mount-sinai-health
   rewards: []
+- company: Move Work Forward
+  url: https://bugcrowd.com/engagements/moveworkforward
+  contact: https://bugcrowd.com/engagements/moveworkforward
+  rewards:
+  - '*bounty'
 - company: MovieXchange
   url: https://moviexchange.com/responsible-disclosure-policy/
   contact: mailto:security@movieXchange.com
@@ -9460,6 +9515,11 @@ companies:
   rewards:
   - '*bounty'
   - '*recognition'
+- company: Onward Software Solutions Inc. - Marketplace Bug Bounty Program
+  url: https://bugcrowd.com/engagements/onward-software-solutions-inc
+  contact: https://bugcrowd.com/engagements/onward-software-solutions-inc
+  rewards:
+  - '*bounty'
 - company: OOCRP
   url: https://www.occrp.org/en/responsible-disclosure
   contact: mailto:security@occrp.org
@@ -9682,6 +9742,11 @@ companies:
   contact: mailto:security@oslobors.no
   rewards:
   - '*recognition'
+- company: OST Consulting SRL Marketplace Managed Bug Bounty Engagement
+  url: https://bugcrowd.com/engagements/ost-consulting-market
+  contact: https://bugcrowd.com/engagements/ost-consulting-market
+  rewards:
+  - '*bounty'
 - company: OTTO.DE Bug Bounty
   url: https://yeswehack.com/programs/otto-de-bug-bounty
   contact: https://yeswehack.com/programs/otto-de-bug-bounty
@@ -10783,6 +10848,11 @@ companies:
   url: https://hackerone.com/radancy
   contact: https://hackerone.com/radancy
   rewards: []
+- company: RadBee Ltd.
+  url: https://bugcrowd.com/engagements/radbee
+  contact: https://bugcrowd.com/engagements/radbee
+  rewards:
+  - '*bounty'
 - company: Radiometer
   url: https://www.radiometer.com/en/about-radiometer/legal/coordinated-vulnerability-disclosure
   contact: https://www.radiometer.com/en/about-radiometer/legal/coordinated-vulnerability-disclosure
@@ -10808,6 +10878,11 @@ companies:
   url: https://bugcrowd.com/rakuten-vdp
   contact: https://bugcrowd.com/rakuten-vdp
   rewards: []
+- company: Raley Apps
+  url: https://bugcrowd.com/engagements/raleyapps
+  contact: https://bugcrowd.com/engagements/raleyapps
+  rewards:
+  - '*bounty'
 - company: Rally
   url: https://www.federacy.com/rally
   contact: https://www.federacy.com/rally
@@ -11150,6 +11225,11 @@ companies:
   contact: mailto:securityreports@resmed.com
   rewards:
   - '*swag'
+- company: Resolution
+  url: https://bugcrowd.com/engagements/resolutionde
+  contact: https://bugcrowd.com/engagements/resolutionde
+  rewards:
+  - '*bounty'
 - company: Resolv
   url: https://immunefi.com/bug-bounty/resolv/
   contact: https://immunefi.com/bug-bounty/resolv/
@@ -11433,6 +11513,11 @@ companies:
   url: https://www.s-pankki.fi
   handle: s-pankki
   contact: https://hackerone.com/s-pankki
+  rewards:
+  - '*bounty'
+- company: SaaSJet
+  url: https://bugcrowd.com/engagements/saasjet
+  contact: https://bugcrowd.com/engagements/saasjet
   rewards:
   - '*bounty'
 - company: Safe Send Returns
@@ -12207,11 +12292,18 @@ companies:
   handle: solarwindsvdp
   contact: mailto:security@solarwinds.com
   rewards: []
+- company: SolDevelo
+  url: https://bugcrowd.com/engagements/soldevelo
+  contact: https://bugcrowd.com/engagements/soldevelo
+  rewards:
+  - '*bounty'
 - company: Solidus
   url: https://hackerone.com/solidus
+  handle: solidus
   contact: https://hackerone.com/solidus
   rewards:
   - '*recognition'
+  - '*swag'
 - company: Soluble
   url: https://www.soluble.ai/vulnerability-disclosure-policy
   contact: https://www.soluble.ai/contact-us?hsCtaTracking=68ab9c98-7e4a-41b9-b021-d08c48714f8a%7C4d355d19-ed87-4f7a-800a-d2aef4052746
@@ -12628,6 +12720,11 @@ companies:
   contact: https://bugcrowd.com/engagements/stiltsoft
   rewards:
   - '*bounty'
+- company: StonikByte
+  url: https://bugcrowd.com/engagements/stonikbyte
+  contact: https://bugcrowd.com/engagements/stonikbyte
+  rewards:
+  - '*bounty'
 - company: Storebrand Responsible Disclosure
   url: https://www.intigriti.com/programs/spp-storebrand/storebrand-rd/detail
   handle: storebrand-rd
@@ -12817,6 +12914,11 @@ companies:
   url: https://syfe.com
   handle: syfe_bbp
   contact: https://hackerone.com/syfe_bbp
+  rewards:
+  - '*bounty'
+- company: Sykora IT Marketplace Managed Bug Bounty Engagement
+  url: https://bugcrowd.com/engagements/sykora-it-market
+  contact: https://bugcrowd.com/engagements/opus-guard-market
   rewards:
   - '*bounty'
 - company: Sylaps
@@ -13359,6 +13461,11 @@ companies:
   url: https://toolsforhumanity.com
   handle: toolsforhumanity
   contact: https://hackerone.com/toolsforhumanity
+  rewards:
+  - '*bounty'
+- company: ToolsPlus
+  url: https://bugcrowd.com/engagements/toolsplus
+  contact: https://bugcrowd.com/engagements/toolsplus
   rewards:
   - '*bounty'
 - company: toom Baumarkt GmbH - Bug Bounty Program (toom.de)
@@ -14535,6 +14642,10 @@ companies:
   contact: https://hackerone.com/weblate
   rewards:
   - '*recognition'
+- company: weblate.org
+  url: https://docs.weblate.org/en/latest/contributing/issues.html#security
+  contact: https://hackerone.com/weblate
+  rewards: []
 - company: webmethod.nl
   url: https://www.webmethod.nl/juridisch/responsible-disclosure
   contact: mailto:security-external@webmethod.nl
