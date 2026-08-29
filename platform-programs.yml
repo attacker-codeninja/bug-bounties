@@ -1969,6 +1969,11 @@ companies:
   url: https://www.britishgasevolve.co.uk/responsible-disclosure
   contact: https://www.britishgasevolve.co.uk/responsible-disclosure
   rewards: []
+- company: BrizoIT
+  url: https://bugcrowd.com/engagements/brizoit
+  contact: https://bugcrowd.com/engagements/brizoit
+  rewards:
+  - '*bounty'
 - company: Broken Build Bug Bounty
   url: https://bugcrowd.com/engagements/brokenbuild
   contact: https://bugcrowd.com/engagements/brokenbuild
@@ -2110,6 +2115,11 @@ companies:
   handle: buhlergroupvdp
   contact: https://www.intigriti.com/programs/buhlergroup/buhlergroupvdp/detail
   rewards: []
+- company: Caelor Group
+  url: https://bugcrowd.com/engagements/caelor-group-market
+  contact: https://bugcrowd.com/engagements/caelor-group-market
+  rewards:
+  - '*bounty'
 - company: Caffeine
   url: https://bugcrowd.com/caffeine
   contact: https://bugcrowd.com/caffeine
@@ -2358,6 +2368,11 @@ companies:
   url: https://www.intigriti.com/programs/intigriti/challenge0726/detail
   handle: challenge0726
   contact: https://www.intigriti.com/programs/intigriti/challenge0726/detail
+  rewards: []
+- company: Challenge 0826
+  url: https://www.intigriti.com/programs/intigriti/challenge0826/detail
+  handle: challenge0826
+  contact: https://www.intigriti.com/programs/intigriti/challenge0826/detail
   rewards: []
 - company: Chameleon
   url: https://www.trychameleon.com/security/disclosure
@@ -4466,6 +4481,11 @@ companies:
   contact: https://hackerone.com/eslint
   rewards:
   - '*recognition'
+- company: Essity
+  url: http://essity.com
+  handle: essity
+  contact: https://hackerone.com/essity
+  rewards: []
 - company: Esteé  Lauder
   url: http://elcompanies.com
   handle: estee-lauder
@@ -4877,6 +4897,11 @@ companies:
   url: https://www.finder.com.au/vulnerability-disclosure-policy
   contact: mailto:security@finder.com
   rewards: []
+- company: FindOut InfoVis AB - Marketplace Bug Bounty Program
+  url: https://bugcrowd.com/engagements/FindOut-infovis
+  contact: https://bugcrowd.com/engagements/FindOut-infovis
+  rewards:
+  - '*bounty'
 - company: Fing Bug Bounty Program
   url: https://www.intigriti.com/programs/lansweeper/fing/detail
   handle: fing
@@ -8224,6 +8249,11 @@ companies:
   url: https://www.merkleinc.com/responsible-disclosure-policy
   contact: mailto:responsibledisclosure@merkleinc.com
   rewards: []
+- company: META-INF
+  url: https://bugcrowd.com/engagements/metainfkft
+  contact: https://bugcrowd.com/engagements/metainfkft
+  rewards:
+  - '*bounty'
 - company: MetaMask
   url: https://metamask.io/
   handle: metamask
@@ -8784,6 +8814,11 @@ companies:
 - company: Navan
   url: https://bugcrowd.com/engagements/navan
   contact: https://bugcrowd.com/engagements/navan
+  rewards:
+  - '*bounty'
+- company: Navarambh
+  url: https://bugcrowd.com/engagements/navarambh
+  contact: https://bugcrowd.com/engagements/navarambh
   rewards:
   - '*bounty'
 - company: Navcoin
@@ -14158,6 +14193,11 @@ companies:
   contact: https://hackerone.com/valve
   rewards:
   - '*bounty'
+- company: Vanguard
+  url: http://vanguard.com
+  handle: vanguard
+  contact: https://hackerone.com/vanguard
+  rewards: []
 - company: Vanilla
   url: https://hackerone.com/vanilla
   contact: https://hackerone.com/vanilla
