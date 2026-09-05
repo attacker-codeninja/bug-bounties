@@ -294,6 +294,12 @@ companies:
   rewards:
   - '*bounty'
   - '*recognition'
+- company: Adobe Public
+  url: https://www.intigriti.com/programs/adobe/adobepublic/detail
+  handle: adobepublic
+  contact: https://www.intigriti.com/programs/adobe/adobepublic/detail
+  rewards:
+  - '*bounty'
 - company: Adore Me Vulnerability Disclosure Program
   url: https://bugcrowd.com/adoreme-vdp
   contact: https://bugcrowd.com/adoreme-vdp
@@ -450,6 +456,11 @@ companies:
 - company: Aiven Managed Bug Bounty
   url: https://bugcrowd.com/engagements/aiven-mbb-og
   contact: https://bugcrowd.com/engagements/aiven-mbb-og
+  rewards:
+  - '*bounty'
+- company: Akeles Marketplace Bug Bounty
+  url: https://bugcrowd.com/engagements/akeles
+  contact: https://bugcrowd.com/engagements/akeles
   rewards:
   - '*bounty'
 - company: Aktia
@@ -828,6 +839,11 @@ companies:
   url: https://www.aptible.com/legal/responsible-disclosure/
   contact: mailto:security@aptible.com
   rewards: []
+- company: APTIS
+  url: https://bugcrowd.com/engagements/epicsumup
+  contact: https://bugcrowd.com/engagements/epicsumup
+  rewards:
+  - '*bounty'
 - company: Aqua Security
   url: https://www.aquasec.com/trust/security/responsible-disclosure-program/
   contact: mailto:psirt@aquasec.com
@@ -9380,6 +9396,11 @@ companies:
   rewards:
   - '*bounty'
   - '*recognition'
+- company: Okapya
+  url: https://bugcrowd.com/engagements/okapya
+  contact: https://bugcrowd.com/engagements/okapya
+  rewards:
+  - '*bounty'
 - company: OkCupid
   url: https://www.okcupid.com/security
   contact: mailto:security@okcupid.com
@@ -11863,6 +11884,11 @@ companies:
   - '*bounty'
   - '*recognition'
   - '*swag'
+- company: Semtech
+  url: https://www.semtech.com
+  handle: semtech
+  contact: https://hackerone.com/semtech
+  rewards: []
 - company: Sendbird
   url: https://bugcrowd.com/engagements/sendbird-mbb
   contact: https://bugcrowd.com/engagements/sendbird-mbb
@@ -11977,6 +12003,11 @@ companies:
   contact: mailto:security@shiftcrypto.ch
   rewards:
   - '*recognition'
+- company: Shinetech Software Inc Marketplace Managed Bug Bounty Engagement
+  url: https://bugcrowd.com/engagements/shinetech-software-market
+  contact: https://bugcrowd.com/engagements/shinetech-software-market
+  rewards:
+  - '*bounty'
 - company: Shipt
   url: https://hackerone.com/shipt
   contact: https://hackerone.com/shipt
@@ -14970,6 +15001,11 @@ companies:
   url: https://xmr.to/security
   contact: mailto:security@xmr.to
   rewards: []
+- company: Xopero Software S.A. Marketplace Managed Bug Bounty Engagement
+  url: https://bugcrowd.com/engagements/xopero-software-marketplace
+  contact: https://bugcrowd.com/engagements/xopero-software-marketplace
+  rewards:
+  - '*bounty'
 - company: XOXNO
   url: https://immunefi.com/bug-bounty/xoxno/
   contact: https://immunefi.com/bug-bounty/xoxno/
