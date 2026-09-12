@@ -2182,6 +2182,11 @@ companies:
   contact: https://www.intigriti.com/programs/capitalcom/capitalcom/detail
   rewards:
   - '*bounty'
+- company: Cappsule Sarl - Marketplace Bug Bounty Program
+  url: https://bugcrowd.com/engagements/cappsule-sarl
+  contact: https://bugcrowd.com/engagements/cappsule-sarl
+  rewards:
+  - '*bounty'
 - company: captainfact.io
   url: https://captainfact.io/help/bug_report
   contact: mailto:security@captainfact.io
@@ -2249,6 +2254,11 @@ companies:
   url: https://www.castlegateit.co.uk/docs/ethical-policy.pdf
   contact: https://www.castlegateit.co.uk/contact/
   rewards: []
+- company: Catapult Labs Bug Bounty
+  url: https://bugcrowd.com/engagements/catapultlabs
+  contact: https://bugcrowd.com/engagements/catapultlabs
+  rewards:
+  - '*bounty'
 - company: Catawiki
   url: https://www.catawiki.com/conditions/responsible-disclosure.pdf
   contact: https://app.zerocopter.com/rd/68657721-53b5-48c3-b9b4-bc0175d0a4f7
@@ -2798,6 +2808,11 @@ companies:
   contact: https://bugcrowd.com/engagements/codeorg
   rewards:
   - '*bounty'
+- company: codecentric AG - Marketplace Bug Bounty Program
+  url: https://bugcrowd.com/engagements/codecentric
+  contact: https://bugcrowd.com/engagements/codecentric
+  rewards:
+  - '*bounty'
 - company: CodeChef
   url: https://www.codechef.com/bug-bounty-program
   contact: https://www.codechef.com/bug-bounty-program
@@ -3195,6 +3210,11 @@ companies:
   contact: mailto:security@crashtest-security.com
   rewards:
   - '*recognition'
+- company: Creativas
+  url: https://bugcrowd.com/engagements/creativas
+  contact: https://bugcrowd.com/engagements/creativas
+  rewards:
+  - '*bounty'
 - company: Credit Karma
   url: https://creditkarma.com
   handle: creditkarma
@@ -3813,6 +3833,11 @@ companies:
   url: https://yeswehack.com/programs/digital-flanders-vulnerability-disclosure-program
   contact: https://yeswehack.com/programs/digital-flanders-vulnerability-disclosure-program
   rewards: []
+- company: Digital Rose's Marketplace Bug Bounty
+  url: https://bugcrowd.com/engagements/digitalrose
+  contact: https://bugcrowd.com/engagements/digitalrose
+  rewards:
+  - '*bounty'
 - company: DigitalOcean
   url: https://hackerone.com/digitalocean
   handle: digitalocean
@@ -7230,6 +7255,11 @@ companies:
 - company: Kiteworks
   url: https://security.kiteworks.com
   contact: https://bugcrowd.com/engagements/kiteworks-public
+  rewards:
+  - '*bounty'
+- company: Kiteworks Public Bug Bounty Program
+  url: https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1
+  contact: https://yeswehack.com/programs/kiteworks-public-bug-bounty-program-1
   rewards:
   - '*bounty'
 - company: Kiwa
@@ -10918,6 +10948,11 @@ companies:
   contact: mailto:security@raidboxes.io
   rewards:
   - '*recognition'
+- company: Railsware
+  url: https://bugcrowd.com/engagements/railsware
+  contact: https://bugcrowd.com/engagements/railsware
+  rewards:
+  - '*bounty'
 - company: Railto LLC
   url: https://hackerone.com/railto
   contact: https://hackerone.com/railto
@@ -11681,6 +11716,11 @@ companies:
   rewards:
   - '*bounty'
   - '*recognition'
+- company: Savignano Software Solutions Marketplace Bug Bounty Program
+  url: https://bugcrowd.com/engagements/savignano
+  contact: https://bugcrowd.com/engagements/savignano
+  rewards:
+  - '*bounty'
 - company: Saxo Group
   url: https://www.home.saxo/legal/vulnerability-disclosure-policy/vulnerability-disclosure-policy
   contact: mailto:security@saxobank.com
@@ -14257,6 +14297,11 @@ companies:
   contact: https://immunefi.com/bug-bounty/vechain/
   rewards:
   - '*bounty'
+- company: Vectors Bug Bounty
+  url: https://bugcrowd.com/engagements/vectors-marketplace
+  contact: https://bugcrowd.com/engagements/vectors-marketplace
+  rewards:
+  - '*bounty'
 - company: Vectra AI, Inc. (Response)
   url: https://www.vectra.ai
   handle: vectra_ai_vdp
@@ -14786,6 +14831,11 @@ companies:
 - company: WeVPN
   url: https://wevpn.com/responsible-disclosure
   contact: mailto:security@wevpn.com
+  rewards:
+  - '*bounty'
+- company: weweave GmbH Marketplace Bug Bounty
+  url: https://bugcrowd.com/engagements/we-weave
+  contact: https://bugcrowd.com/engagements/we-weave
   rewards:
   - '*bounty'
 - company: weweave UG Marketplace Bug Bounty
