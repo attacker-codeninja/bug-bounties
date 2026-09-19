@@ -265,6 +265,11 @@ companies:
   url: https://ada.com/security-vulnerability-disclosure-policy/
   contact: mailto:security@ada.com
   rewards: []
+- company: ADAC Vulnerability Disclosure Program
+  url: https://www.intigriti.com/programs/adac/adacvulnerabilitydisclosureprogram/detail
+  handle: adacvulnerabilitydisclosureprogram
+  contact: https://www.intigriti.com/programs/adac/adacvulnerabilitydisclosureprogram/detail
+  rewards: []
 - company: Adafruit
   url: https://www.adafruit.com/reportingsecurityissues
   contact: mailto:security@adafruit.com
@@ -864,6 +869,12 @@ companies:
   handle: arboniavdpprogram
   contact: https://www.intigriti.com/programs/arbonia/arboniavdpprogram/detail
   rewards: []
+- company: Arc
+  url: https://www.arc.io
+  handle: arc-bbp
+  contact: https://hackerone.com/arc-bbp
+  rewards:
+  - '*bounty'
 - company: Archive-Intel-Inc
   url: https://www.federacy.com/archive-intel-inc
   contact: https://www.federacy.com/archive-intel-inc
@@ -3355,6 +3366,12 @@ companies:
   contact: https://bugcrowd.com/cybrary/report
   rewards:
   - '*recognition'
+- company: d-you App & German EUDI Wallet Ecosystem
+  url: https://eudi-wallet.gov.de/
+  handle: common_codes
+  contact: https://hackerone.com/common_codes
+  rewards:
+  - '*bounty'
 - company: D66
   url: https://d66.nl/responsible-disclosure/
   contact: https://d66.nl/responsible-disclosure/
@@ -3966,6 +3983,11 @@ companies:
   rewards:
   - '*recognition'
 - company: Donorbox VDP
+  url: https://www.intigriti.com/programs/donorbox/donorboxvdp/detail
+  handle: donorboxvdp
+  contact: https://www.intigriti.com/programs/donorbox/donorboxvdp/detail
+  rewards: []
+- company: Donorbox Vulnerability Disclosure Project
   url: https://www.intigriti.com/programs/donorbox/donorboxvdp/detail
   handle: donorboxvdp
   contact: https://www.intigriti.com/programs/donorbox/donorboxvdp/detail
@@ -5794,6 +5816,7 @@ companies:
   - '*swag'
 - company: GULP
   url: https://www.intigriti.com/programs/randstad/gulp/detail
+  handle: gulp
   contact: https://www.intigriti.com/programs/randstad/gulp/detail
   rewards: []
 - company: Gusto
@@ -10571,6 +10594,11 @@ companies:
 - company: Postal Regulatory Commission
   url: https://www.prc.gov/vulnerability-disclosure-policy
   contact: mailto:itsecure@prc.gov
+  rewards: []
+- company: Posten Bring Responsible Disclosure
+  url: https://www.intigriti.com/programs/postenbringas/vdp/detail
+  handle: vdp
+  contact: https://www.intigriti.com/programs/postenbringas/vdp/detail
   rewards: []
 - company: Posti Bug Bounty
   url: https://www.intigriti.com/programs/posti/postibugbounty/detail
