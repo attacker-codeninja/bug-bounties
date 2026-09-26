@@ -357,6 +357,11 @@ companies:
   contact: https://agicap.com/en/bug-bounty/
   rewards:
   - '*bounty'
+- company: agile doyens
+  url: https://bugcrowd.com/engagements/agiledoyens-market
+  contact: https://bugcrowd.com/engagements/agiledoyens-market
+  rewards:
+  - '*bounty'
 - company: AgilePulse Marketplace Bug Bounty Program
   url: https://bugcrowd.com/engagements/agile-pulse
   contact: https://bugcrowd.com/engagements/agile-pulse
@@ -522,6 +527,7 @@ companies:
   - '*bounty'
 - company: Algolia
   url: https://www.algolia.com/security
+  handle: algolia
   contact: https://hackerone.com/algolia/reports/new
   rewards:
   - '*bounty'
@@ -2411,6 +2417,11 @@ companies:
   handle: challenge0826
   contact: https://www.intigriti.com/programs/intigriti/challenge0826/detail
   rewards: []
+- company: Challenge 0926
+  url: https://www.intigriti.com/programs/intigriti/challenge0926/detail
+  handle: challenge0926
+  contact: https://www.intigriti.com/programs/intigriti/challenge0926/detail
+  rewards: []
 - company: Chameleon
   url: https://www.trychameleon.com/security/disclosure
   contact: https://www.trychameleon.com/security/disclosure
@@ -2897,6 +2908,7 @@ companies:
   - '*bounty'
 - company: Coindcx - Bug Bounty Program
   url: https://yeswehack.com/programs/coindcx-bug-bounty-program
+  handle: coindcx_vdp
   contact: https://yeswehack.com/programs/coindcx-bug-bounty-program
   rewards:
   - '*bounty'
@@ -3764,6 +3776,11 @@ companies:
 - company: DevAcrobats
   url: https://bugcrowd.com/engagements/devacrobats-market
   contact: https://bugcrowd.com/engagements/devacrobats-market
+  rewards:
+  - '*bounty'
+- company: Deview Studios Marketplace Managed Bug Bounty Engagement
+  url: https://bugcrowd.com/engagements/deviewstudios-market
+  contact: https://bugcrowd.com/engagements/deviewstudios-market
   rewards:
   - '*bounty'
 - company: Deviniti
@@ -6023,6 +6040,11 @@ companies:
   url: https://www.myhermes.co.uk/responsible-disclosure-policy
   contact: mailto:infosec@hermes-europe.co.uk
   rewards: []
+- company: HeroCoders Apps
+  url: https://bugcrowd.com/engagements/herocoders
+  contact: https://bugcrowd.com/engagements/herocoders
+  rewards:
+  - '*bounty'
 - company: Heroku
   url: https://www.heroku.com/policy/security
   contact: mailto:bugbountymanager@salesforce.com
@@ -7129,6 +7151,12 @@ companies:
   contact: https://bugcrowd.com/kaleido
   rewards:
   - '*bounty'
+- company: Kaltura
+  url: http://kaltura.com
+  handle: kaltura
+  contact: https://hackerone.com/kaltura
+  rewards:
+  - '*bounty'
 - company: Kamino
   url: https://immunefi.com/bug-bounty/kamino/
   contact: https://immunefi.com/bug-bounty/kamino/
@@ -7705,6 +7733,12 @@ companies:
 - company: Litew8 GmbH - Marketplace Bug Bounty
   url: https://bugcrowd.com/engagements/litew8
   contact: https://bugcrowd.com/engagements/litew8
+  rewards:
+  - '*bounty'
+- company: Live Nation
+  url: http://livenation.com
+  handle: live_nation
+  contact: https://hackerone.com/live_nation
   rewards:
   - '*bounty'
 - company: Liveclicker
@@ -8934,6 +8968,11 @@ companies:
 - company: NDS Systems
   url: https://www.cyncsoftware.com/responsible-disclosure-policy.php
   contact: mailto:responsibledisclosure@cyncsoftware.com
+  rewards: []
+- company: Nebius AI Vulnerability Disclosure
+  url: https://nebius.com
+  handle: nebius_ai_vdp
+  contact: https://hackerone.com/nebius_ai_vdp
   rewards: []
 - company: Needabreak
   url: https://needabreak.com/responsible-disclosure-policy/
@@ -10652,6 +10691,11 @@ companies:
   url: https://www.predicagroup.com/cvd/
   contact: https://www.predicagroup.com/cvd/
   rewards: []
+- company: Presago Marketplace Bug Bounty Program
+  url: https://bugcrowd.com/engagements/presago
+  contact: https://bugcrowd.com/engagements/presago
+  rewards:
+  - '*bounty'
 - company: Prevu3D
   url: https://www.federacy.com/prevu3d
   contact: https://www.federacy.com/prevu3d
@@ -11396,6 +11440,11 @@ companies:
   handle: revolutvdp
   contact: https://www.revolut.com/responsible-disclosure-program
   rewards: []
+- company: Revyz - Marketplace Bug Bounty Program
+  url: https://bugcrowd.com/engagements/revyz
+  contact: https://bugcrowd.com/engagements/revyz
+  rewards:
+  - '*bounty'
 - company: Rewind
   url: https://rewind.com/legal/vulnerability-disclosure-policy/
   contact: https://rewind.com/legal/vulnerability-disclosure-policy/
@@ -12367,6 +12416,11 @@ companies:
   contact: https://hackerone.com/smule
   rewards:
   - '*recognition'
+- company: Snapbytes Marketplace Managed Bug Bounty Engagement
+  url: https://bugcrowd.com/engagements/snapbytes-market
+  contact: https://bugcrowd.com/engagements/opus-guard-market
+  rewards:
+  - '*bounty'
 - company: Snapchat
   url: https://hackerone.com/snapchat
   handle: snapchat
@@ -14080,6 +14134,11 @@ companies:
   url: https://unisynvoting.com/wp-content/uploads/2020/08/Unisyn-Vulnerability-Disclosure_Policy_V-1.0_8.14.2020.pdf
   contact: mailto:security@unisynvoting.com
   rewards: []
+- company: Unisys Managed Bug Bounty Engagement
+  url: https://bugcrowd.com/engagements/unisys-mbb-og
+  contact: https://bugcrowd.com/engagements/unisys-mbb-og
+  rewards:
+  - '*bounty'
 - company: United Airlines
   url: https://www.united.com/web/en-US/content/contact/bugbounty.aspx
   contact: mailto:bugbounty@united.com
@@ -14382,8 +14441,10 @@ companies:
   rewards: []
 - company: Vercel
   url: https://hackerone.com/vercel
+  handle: vercel
   contact: https://hackerone.com/vercel
-  rewards: []
+  rewards:
+  - '*bounty'
 - company: Vercel Open Source
   url: https://vercel.com/
   handle: vercel-open-source
@@ -14484,6 +14545,11 @@ companies:
   contact: mailto:infosec@vice.com
   rewards:
   - '*recognition'
+- company: Vico Marketplace Bug Bounty
+  url: https://bugcrowd.com/engagements/vicosoft
+  contact: https://bugcrowd.com/engagements/vicosoft
+  rewards:
+  - '*bounty'
 - company: VidaXL Holding - Open Bug Bounty Program
   url: https://yeswehack.com/programs/vidaxl-holding-open-bug-bounty-program
   contact: https://yeswehack.com/programs/vidaxl-holding-open-bug-bounty-program
@@ -14650,6 +14716,11 @@ companies:
 - company: VPNArea
   url: https://vpnarea.com/front/home/bugbounty
   contact: mailto:support@vpnarea.com
+  rewards:
+  - '*bounty'
+- company: VR Public Managed Bug Bounty Engagement
+  url: https://bugcrowd.com/engagements/vr-group-mbb-og1
+  contact: https://bugcrowd.com/engagements/bitgo-mbb-og-public
   rewards:
   - '*bounty'
 - company: VRT
