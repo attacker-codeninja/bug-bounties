@@ -384,6 +384,11 @@ companies:
   rewards:
   - '*bounty'
   - '*swag'
+- company: AI | Apps+ Marketplace Bug Bounty Program
+  url: https://bugcrowd.com/engagements/apps-plus2
+  contact: https://bugcrowd.com/engagements/apps-plus2
+  rewards:
+  - '*bounty'
 - company: AIG
   url: https://www.aig.com
   handle: aig
@@ -1801,6 +1806,11 @@ companies:
   rewards:
   - '*bounty'
   - '*recognition'
+- company: Bloompeak's Bug Bounty
+  url: https://bugcrowd.com/engagements/bloompeak
+  contact: https://bugcrowd.com/engagements/bloompeak
+  rewards:
+  - '*bounty'
 - company: bloomscape.com
   url: https://bloomscape.com/.well-known/security-policy.html
   contact: mailto:security-alerts@bloomscape.com
@@ -2903,6 +2913,7 @@ companies:
   - '*swag'
 - company: Coindcx
   url: https://yeswehack.com/programs/coindcx-bug-bounty-program#program-description
+  handle: coindcx_vdp
   contact: https://yeswehack.com/programs/coindcx-bug-bounty-program#program-description
   rewards:
   - '*bounty'
@@ -8188,6 +8199,11 @@ companies:
   contact: https://bugcrowd.com/engagements/mastercard
   rewards:
   - '*bounty'
+- company: Mateco VDP
+  url: https://www.intigriti.com/programs/mateco/matecovdp/detail
+  handle: matecovdp
+  contact: https://www.intigriti.com/programs/mateco/matecovdp/detail
+  rewards: []
 - company: Mathworks
   url: https://www.mathworks.com/company/aboutus/policies_statements/vulnerability-disclosure-policy.html
   contact: mailto:security@mathworks.com
@@ -8298,6 +8314,11 @@ companies:
   contact: mailto:security@meetfabric.com
   rewards:
   - '*recognition'
+- company: Meetical
+  url: https://bugcrowd.com/engagements/meetical
+  contact: https://bugcrowd.com/engagements/meetical
+  rewards:
+  - '*bounty'
 - company: Mega.co.nz
   url: https://mega.co.nz/#blog_6
   contact: mailto:bugs@mega.co.nz
@@ -9382,6 +9403,11 @@ companies:
   url: https://www.nxp.com/support/support/report-product-security-vulnerabilities:PSIRT
   contact: mailto:psirt@nxp.com
   rewards: []
+- company: NxtPort VDP
+  url: https://www.intigriti.com/programs/portofantwerp/nxtportvdp/detail
+  handle: nxtportvdp
+  contact: https://www.intigriti.com/programs/portofantwerp/nxtportvdp/detail
+  rewards: []
 - company: Nykaa
   url: https://www.nykaa.com/responsible-disclosure
   contact: mailto:it-security@nykaa.com
@@ -9557,6 +9583,12 @@ companies:
 - company: Olympus
   url: https://medical.olympusamerica.com/customer-resources/product-security
   contact: mailto:productsecurity@olympus.com
+  rewards:
+  - '*bounty'
+- company: Omarchy
+  url: http://omarchy.org
+  handle: omarchy
+  contact: https://hackerone.com/omarchy
   rewards:
   - '*bounty'
 - company: Omise
@@ -14582,6 +14614,11 @@ companies:
   contact: https://www.intigriti.com/programs/vinted/vinted-bugbountyprogram/detail
   rewards:
   - '*bounty'
+- company: Vinted Bug Bounty
+  url: https://bugcrowd.com/engagements/vinted-uab-mbb
+  contact: https://bugcrowd.com/engagements/vinted-uab-mbb
+  rewards:
+  - '*bounty'
 - company: Vipps AS
   url: https://www.vipps.no/sikkerhet/responsible-disclosure-policy/
   contact: mailto:responsible-disclosure@vipps.no
@@ -14798,6 +14835,12 @@ companies:
 - company: Walmart
   url: https://corporate.walmart.com/privacy-security
   contact: https://corporate.walmart.com/article/responsible-disclosure-policy
+  rewards:
+  - '*bounty'
+- company: Walt.io
+  url: https://walt.io/
+  handle: walt_io
+  contact: https://hackerone.com/walt_io
   rewards:
   - '*bounty'
 - company: Wamba
