@@ -313,6 +313,11 @@ companies:
   url: https://www.adp.com/about-adp/data-security.aspx
   contact: mailto:vulnerabilityreporting@ADP.com
   rewards: []
+- company: Aegean Airlines Vulnerability Disclosure
+  url: http://aegeanair.com
+  handle: aegean_airlines_vdp
+  contact: https://hackerone.com/aegean_airlines_vdp
+  rewards: []
 - company: Aelbox Marketplace Bug Bounty
   url: https://bugcrowd.com/engagements/aelbox
   contact: https://bugcrowd.com/engagements/aelbox
@@ -580,6 +585,11 @@ companies:
   url: https://hackerone.com/allegro?view_policy=true
   contact: https://hackerone.com/allegro/reports/new
   rewards: []
+- company: Almarise Marketplace Managed Bug Bounty Engagement
+  url: https://bugcrowd.com/engagements/almarise-market
+  contact: https://bugcrowd.com/engagements/almarise-market
+  rewards:
+  - '*bounty'
 - company: Alohi
   url: https://www.alohi.com
   handle: alohi
@@ -1229,6 +1239,11 @@ companies:
   rewards:
   - '*bounty'
   - '*recognition'
+- company: Avisi Marketplace Bug Bounty Program
+  url: https://bugcrowd.com/engagements/avisi
+  contact: https://bugcrowd.com/engagements/avisi
+  rewards:
+  - '*bounty'
 - company: Avito
   url: https://hackerone.com/avito
   contact: ''
@@ -3346,7 +3361,8 @@ companies:
 - company: Cvent
   url: https://www.cvent.com/en/event-management-software/vulnerability-disclosure-program
   contact: https://www.cvent.com/en/event-management-software/report-security-vulnerability
-  rewards: []
+  rewards:
+  - '*bounty'
 - company: CVS Health VDP
   url: https://www.cvshealth.com/vulnerability-disclosure-program
   contact: https://www.cvshealth.com/vulnerability-disclosure-program
@@ -3542,6 +3558,11 @@ companies:
 - company: deBridge
   url: https://immunefi.com/bug-bounty/debridge/
   contact: https://immunefi.com/bug-bounty/debridge/
+  rewards:
+  - '*bounty'
+- company: Decadis AG
+  url: https://bugcrowd.com/engagements/decadisag
+  contact: https://bugcrowd.com/engagements/decadisag
   rewards:
   - '*bounty'
 - company: DECATHLON
@@ -4695,6 +4716,11 @@ companies:
 - company: Exactly
   url: https://immunefi.com/bug-bounty/exactly/
   contact: https://immunefi.com/bug-bounty/exactly/
+  rewards:
+  - '*bounty'
+- company: Excentia Bug Bounty
+  url: https://bugcrowd.com/engagements/excentia
+  contact: https://bugcrowd.com/engagements/excentia
   rewards:
   - '*bounty'
 - company: Exness
@@ -14500,6 +14526,11 @@ companies:
   contact: https://bugcrowd.com/verisign
   rewards:
   - '*bounty'
+- company: Verisk VDP
+  url: http://verisk.com
+  handle: verisk_vdp
+  contact: https://hackerone.com/verisk_vdp
+  rewards: []
 - company: Verizon
   url: https://www.verizon.com/info/reportsecurityvulnerability/
   contact: ''
