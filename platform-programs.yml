@@ -698,6 +698,11 @@ companies:
   url: https://www.amocrm.com/vulnerability-disclosure-program/
   contact: mailto:security@team.amocrm.com
   rewards: []
+- company: Amoeboids
+  url: https://bugcrowd.com/engagements/amoeboids
+  contact: https://bugcrowd.com/engagements/amoeboids
+  rewards:
+  - '*bounty'
 - company: AmpCode.com
   url: https://ampcode.com/security/
   contact: mailto:security@sourcegraph.com
@@ -7783,6 +7788,11 @@ companies:
   contact: https://www.liveclicker.com/trust/report-a-vulnerability/
   rewards:
   - '*bounty'
+- company: Lively Apps GmbH - marketplace Bug Bounty Program
+  url: https://bugcrowd.com/engagements/lively-apps
+  contact: https://bugcrowd.com/engagements/lively-apps
+  rewards:
+  - '*bounty'
 - company: Livepeer
   url: https://immunefi.com/bug-bounty/livepeer/
   contact: https://immunefi.com/bug-bounty/livepeer/
@@ -9336,6 +9346,12 @@ companies:
   url: https://www.notion.so/Responsible-Disclosure-Policy-5f18bb6b86804eaf989c006131778b9c
   handle: notion
   contact: mailto:security@makenotion.com
+  rewards:
+  - '*bounty'
+- company: Notion Labs, Inc.
+  url: https://www.notion.com
+  handle: notion
+  contact: https://hackerone.com/notion
   rewards:
   - '*bounty'
 - company: Novocure
@@ -12428,6 +12444,11 @@ companies:
   url: https://www.sba.gov/vulnerability-disclosure-policy
   contact: mailto:CISO@sba.gov
   rewards: []
+- company: Smart Guess ehf. - Marketplace Bug Bounty Program
+  url: https://bugcrowd.com/engagements/envision-ehf
+  contact: https://bugcrowd.com/engagements/envision-ehf
+  rewards:
+  - '*bounty'
 - company: Smartling
   url: https://help.smartling.com/hc/en-us/articles/360008147833-Bug-Bounty-Policy
   contact: mailto:itsec@smartling.com
