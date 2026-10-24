@@ -2452,6 +2452,11 @@ companies:
   handle: challenge0926
   contact: https://www.intigriti.com/programs/intigriti/challenge0926/detail
   rewards: []
+- company: Challenge 1026
+  url: https://www.intigriti.com/programs/intigriti/challenge1026/detail
+  handle: challenge1026
+  contact: https://www.intigriti.com/programs/intigriti/challenge1026/detail
+  rewards: []
 - company: Chameleon
   url: https://www.trychameleon.com/security/disclosure
   contact: https://www.trychameleon.com/security/disclosure
@@ -2996,6 +3001,11 @@ companies:
   contact: mailto:security@cointracker.io
   rewards:
   - '*bounty'
+- company: Coke One North America
+  url: https://www.intigriti.com/programs/tccc/cokeonenorthamerica/detail
+  handle: cokeonenorthamerica
+  contact: https://www.intigriti.com/programs/tccc/cokeonenorthamerica/detail
+  rewards: []
 - company: Colined
   url: https://bugcrowd.com/engagements/colined
   contact: https://bugcrowd.com/engagements/colined
@@ -5169,6 +5179,12 @@ companies:
   url: https://www.flutter.com/our-business/our-divisions
   handle: flutteruki
   contact: https://hackerone.com/flutteruki
+  rewards:
+  - '*bounty'
+- company: Fluvius
+  url: https://www.intigriti.com/programs/fluvius/fluvius/detail
+  handle: fluvius
+  contact: https://www.intigriti.com/programs/fluvius/fluvius/detail
   rewards:
   - '*bounty'
 - company: Flux Finance
