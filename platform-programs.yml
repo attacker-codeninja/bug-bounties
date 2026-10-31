@@ -2047,6 +2047,11 @@ companies:
   contact: https://bugcrowd.com/engagements/browserstack-market
   rewards:
   - '*bounty'
+- company: BRP Challenge
+  url: https://www.intigriti.com/programs/intigriti/challengebrp/detail
+  handle: challengebrp
+  contact: https://www.intigriti.com/programs/intigriti/challengebrp/detail
+  rewards: []
 - company: BtcTurk
   url: https://www.btcturk.com/odul-avciligi
   contact: https://www.btcturk.com/odul-avciligi
@@ -12477,6 +12482,7 @@ companies:
   - '*bounty'
 - company: Smartsheet
   url: https://hackerone.com/smartsheet
+  handle: smartsheet_vdp
   contact: https://hackerone.com/smartsheet
   rewards:
   - '*bounty'
@@ -13498,6 +13504,11 @@ companies:
 - company: Thala Protocol
   url: https://immunefi.com/bug-bounty/thala-protocol/
   contact: https://immunefi.com/bug-bounty/thala-protocol/
+  rewards:
+  - '*bounty'
+- company: Thales Cyber Security Products Bug Bounty
+  url: https://bugcrowd.com/engagements/imperva-mbb
+  contact: https://bugcrowd.com/engagements/imperva-mbb
   rewards:
   - '*bounty'
 - company: The Atlantic
@@ -15271,6 +15282,11 @@ companies:
   contact: https://immunefi.com/bug-bounty/xoxno/
   rewards:
   - '*bounty'
+- company: XP Inc Vulnerability Disclosure
+  url: https://www.xpi.com.br/
+  handle: xp_inc_vdp
+  contact: https://hackerone.com/xp_inc_vdp
+  rewards: []
 - company: XT
   url: https://hackenproof.com/1inch/1inch-smart-contract
   handle: metamask
