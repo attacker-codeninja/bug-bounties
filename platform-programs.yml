@@ -2178,6 +2178,11 @@ companies:
   contact: https://security.bytedance.com/en/submit/
   rewards:
   - '*bounty'
+- company: Bytera Marketplace Managed Bug Bounty Engagement
+  url: https://bugcrowd.com/engagements/bytera-market
+  contact: https://bugcrowd.com/engagements/bytera-market
+  rewards:
+  - '*bounty'
 - company: Bühler Group VDP
   url: https://www.intigriti.com/programs/buhlergroup/buhlergroupvdp/detail
   handle: buhlergroupvdp
