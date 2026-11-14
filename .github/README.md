@@ -498,6 +498,7 @@
 - <img src='https://icon.horse/icon/canary.discord.com' width='16'/> [Discord](https://canary.discord.com/security) 💰
 - <img src='https://icon.horse/icon/hackerone.com' width='16'/> [Discourse](https://hackerone.com/discourse) 💰 🏅
 - <img src='https://icon.horse/icon/discover.responsibledisclosure.com' width='16'/> [Discover Financial Services](https://discover.responsibledisclosure.com/hc/en-us) 💰 🏅
+- <img src='https://icon.horse/icon/divvyhomes.com' width='16'/> [Divvy Homes](http://divvyhomes.com) 🎁
 - <img src='https://icon.horse/icon/hackerone.com' width='16'/> [Django](https://hackerone.com/django) 💰 🏅
 - <img src='https://icon.horse/icon/security.dji.com' width='16'/> [DJI](https://security.dji.com/policy) 💰 🏅
 - <img src='https://icon.horse/icon/dnsimple.com' width='16'/> [DNSimple](https://dnsimple.com/security) 🏅
@@ -971,6 +972,7 @@
 - <img src='https://icon.horse/icon/www.liferay.com' width='16'/> [Liferay](https://www.liferay.com/security) 🏅
 - <img src='https://icon.horse/icon/immunefi.com' width='16'/> [Light Protocol](https://immunefi.com/bug-bounty/light-protocol/) 💰
 - <img src='https://icon.horse/icon/lightspark.com' width='16'/> [Lightspark BBP](http://lightspark.com) 💰
+- <img src='https://icon.horse/icon/www.intigriti.com' width='16'/> [Lightspark Public Bug Bounty](https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail) 💰
 - <img src='https://icon.horse/icon/bugcrowd.com' width='16'/> [Lightspeed Hospitality](https://bugcrowd.com/engagements/lightspeed-hospitality) 💰
 - <img src='https://icon.horse/icon/bugcrowd.com' width='16'/> [Lightspeed Retail](https://bugcrowd.com/engagements/lightspeed-retail) 💰
 - <img src='https://icon.horse/icon/bugcrowd.com' width='16'/> [Lime](https://bugcrowd.com/lime) 💰 🏅
@@ -1183,6 +1185,7 @@
 <details open><summary><h4>O</h4></summary>
 
 - <img src='https://icon.horse/icon/immunefi.com' width='16'/> [Oasis](https://immunefi.com/bug-bounty/oasis/) 💰
+- <img src='https://icon.horse/icon/hackerone.com' width='16'/> [Oasis Protocol Foundation](https://hackerone.com/oasis_protocol_foundation) 💰 🎁
 - <img src='https://icon.horse/icon/observu.com' width='16'/> [Observu](https://observu.com/security.php) 🏅
 - <img src='https://icon.horse/icon/immunefi.com' width='16'/> [Obyte](https://immunefi.com/bug-bounty/obyte/) 💰
 - <img src='https://icon.horse/icon/bugcrowd.com' width='16'/> [Octopus](https://bugcrowd.com/octopus-og) 💰 🏅
