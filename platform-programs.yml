@@ -748,6 +748,7 @@ companies:
   rewards: []
 - company: Ankr
   url: https://immunefi.com/bug-bounty/ankr/
+  handle: anker
   contact: https://immunefi.com/bug-bounty/ankr/
   rewards:
   - '*bounty'
@@ -1938,6 +1939,11 @@ companies:
 - company: Borealis
   url: https://www.borealisgroup.com/legal/responsible-disclosure
   contact: mailto:infosecurity@borealisgroup.com
+  rewards: []
+- company: BorgWarner Vulnerability Disclosure Program
+  url: https://www.intigriti.com/programs/borgwarner/borgwarnervdp/detail
+  handle: borgwarnervdp
+  contact: https://www.intigriti.com/programs/borgwarner/borgwarnervdp/detail
   rewards: []
 - company: Bosch
   url: https://psirt.bosch.com/bosch-responsible-disclosure-policy/
@@ -3992,6 +3998,12 @@ companies:
   url: https://octo.dc.gov/sites/default/files/dc/sites/octo/publication/attachments/Responsible%20Disclosure%20Policy%20.pdf
   contact: mailto:responsibledisclosure@dc.gov
   rewards: []
+- company: Divvy Homes
+  url: http://divvyhomes.com
+  handle: divvy-homes
+  contact: https://hackerone.com/divvy-homes
+  rewards:
+  - '*swag'
 - company: Django
   url: https://hackerone.com/django
   handle: django
@@ -4748,6 +4760,10 @@ companies:
   contact: https://bugcrowd.com/engagements/excentia
   rewards:
   - '*bounty'
+- company: Exception Security
+  url: https://exceptionsecurity.com/disclose/?p=exception-security
+  contact: mailto:security@exceptionsecurity.com
+  rewards: []
 - company: Exness
   url: https://www.exness.com
   handle: exness
@@ -5207,6 +5223,11 @@ companies:
   contact: mailto:security@fluxiom.com
   rewards:
   - '*recognition'
+- company: Flywire Vulnerability Disclose Program
+  url: https://www.intigriti.com/programs/flywire/flywirevulnerabilitydiscloseprogram/detail
+  handle: flywirevulnerabilitydiscloseprogram
+  contact: https://www.intigriti.com/programs/flywire/flywirevulnerabilitydiscloseprogram/detail
+  rewards: []
 - company: FOIL
   url: https://immunefi.com/bug-bounty/foil/
   contact: https://immunefi.com/bug-bounty/foil/
@@ -7733,6 +7754,12 @@ companies:
   contact: https://hackerone.com/lightspark_bbp
   rewards:
   - '*bounty'
+- company: Lightspark Public Bug Bounty
+  url: https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
+  handle: lightsparkpublicbugbounty
+  contact: https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail
+  rewards:
+  - '*bounty'
 - company: Lightspeed Hospitality
   url: https://bugcrowd.com/engagements/lightspeed-hospitality
   contact: https://bugcrowd.com/engagements/lightspeed-hospitality
@@ -8337,6 +8364,10 @@ companies:
   contact: https://mckinsey.responsibledisclosure.com/hc/en-us/requests/new
   rewards:
   - '*recognition'
+- company: MCPBay
+  url: https://mcpbay.pro/vulnerability-disclosure.html
+  contact: mailto:support@mcpbay.pro
+  rewards: []
 - company: Mediamarktsaturn
   url: https://hackerone.com/mediamarktsaturn
   contact: https://vdp.mediamarktsaturn.com/p/Submission-Form
@@ -9304,6 +9335,10 @@ companies:
   contact: mailto:security@nodejs.org
   rewards:
   - '*bounty'
+- company: Noctula Risk Intelligence
+  url: https://www.noctula.org/en/security/disclosure
+  contact: mailto:security@noctula.org
+  rewards: []
 - company: Node.js
   url: https://hackerone.com/nodejs
   contact: ''
@@ -9498,8 +9533,11 @@ companies:
   - '*bounty'
 - company: Oasis Protocol Foundation
   url: https://hackerone.com/oasis_protocol_foundation
+  handle: oasisprotocol
   contact: https://hackerone.com/oasis_protocol_foundation
-  rewards: []
+  rewards:
+  - '*bounty'
+  - '*swag'
 - company: Observu
   url: https://observu.com/security.php
   contact: mailto:info@observu.com
@@ -13080,9 +13118,17 @@ companies:
   url: https://support.sugarcrm.com/Resources/Security/Bug_Bounty_Program/
   contact: mailto:secure@sugarcrm.com
   rewards: []
+- company: SUHUL LLC
+  url: https://suhul.us/en/vulnerability-disclosure
+  contact: mailto:support@suhul.us
+  rewards: []
 - company: Summa
   url: https://www.summa.eu/nl/responsible-disclosure
   contact: mailto:security@summa.eu
+  rewards: []
+- company: SunLicense
+  url: https://docs.sunlicense.com/legal/vulnerability-disclosure
+  contact: mailto:hello@sundevs.net
   rewards: []
 - company: Supabase
   url: https://supabase.com
@@ -13979,6 +14025,10 @@ companies:
   contact: https://www.intigriti.com/programs/truelayer/truelayer/detail
   rewards:
   - '*bounty'
+- company: TrueProxies
+  url: https://trueproxies.com/security/
+  contact: mailto:hello@trueproxies.com
+  rewards: []
 - company: TruFin
   url: https://immunefi.com/bug-bounty/trufin/
   contact: https://immunefi.com/bug-bounty/trufin/
@@ -14476,6 +14526,10 @@ companies:
 - company: VanMoof
   url: https://www.vanmoof.com/en/responsible-disclosure-policy
   contact: mailto:security@vanmoof.com
+  rewards: []
+- company: Vanthal
+  url: https://vanthal.com/seguridad/divulgacion
+  contact: mailto:contacto@vanthal.com
   rewards: []
 - company: Varo Money
   url: https://varomoney.responsibledisclosure.com/hc/en-us
