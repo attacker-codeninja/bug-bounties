@@ -50,6 +50,12 @@ companies:
   contact: https://hackerone.com/1password_ctf
   rewards:
   - '*bounty'
+- company: 1Password Bug Bounty Program
+  url: https://www.intigriti.com/programs/onepassword/1passwordbugbountyprogram/detail
+  handle: 1passwordbugbountyprogram
+  contact: https://www.intigriti.com/programs/onepassword/1passwordbugbountyprogram/detail
+  rewards:
+  - '*bounty'
 - company: 1Password Game
   url: https://bugcrowd.com/agilebits
   contact: https://bugcrowd.com/agilebits/report
@@ -1960,6 +1966,11 @@ companies:
   url: https://www.bostonscientific.com/en-US/customer-service/product-security/responsible-disclosure.html
   contact: mailto:product.security@bsci.com
   rewards: []
+- company: BoursoBank Bug Bounty Program
+  url: https://yeswehack.com/programs/boursobank-bug-bounty-program
+  contact: https://yeswehack.com/programs/boursobank-bug-bounty-program
+  rewards:
+  - '*bounty'
 - company: Box
   url: https://www.box.com/about-us/security/
   handle: box_private
@@ -2472,6 +2483,11 @@ companies:
   url: https://www.intigriti.com/programs/intigriti/challenge1026/detail
   handle: challenge1026
   contact: https://www.intigriti.com/programs/intigriti/challenge1026/detail
+  rewards: []
+- company: Challenge 1126
+  url: https://www.intigriti.com/programs/intigriti/challenge1126/detail
+  handle: challenge1126
+  contact: https://www.intigriti.com/programs/intigriti/challenge1126/detail
   rewards: []
 - company: Chameleon
   url: https://www.trychameleon.com/security/disclosure
@@ -3219,6 +3235,12 @@ companies:
   url: https://success.coupa.com/Trust/Security_Policies/02_Vulnerability_Reporting_Policy
   contact: mailto:security@coupa.com
   rewards: []
+- company: Coupang
+  url: https://hackerone.com/coupang
+  handle: coupang
+  contact: https://hackerone.com/coupang
+  rewards:
+  - '*bounty'
 - company: Coupang Taiwan
   url: https://www.tw.coupang.com
   handle: coupang_tw
@@ -9364,6 +9386,11 @@ companies:
   url: https://nordsecurity.com/
   handle: nordsecurity
   contact: https://hackerone.com/nordsecurity
+  rewards:
+  - '*bounty'
+- company: Nord Security Managed Bug Bounty Engagement
+  url: https://bugcrowd.com/engagements/nord-security-mbb
+  contact: https://bugcrowd.com/engagements/nord-security-mbb
   rewards:
   - '*bounty'
 - company: NordVPN
